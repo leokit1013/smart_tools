@@ -87,7 +87,7 @@ st.markdown("""
 #about-button {
     position: fixed;
     bottom: 20px;
-    left: 20px;
+    right: 20px;
     background-color: #ff4b4b;
     color: white;
     border: none;
