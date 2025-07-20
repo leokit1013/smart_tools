@@ -79,3 +79,28 @@ with col3:
     st.markdown("<div class='tool-desc'>Summarize reports, resumes, or articles quickly with Gemini AI.</div>", unsafe_allow_html=True)
     st.page_link("pages/3_Document_Summarizer.py", label="Open Tool", icon="➡️")
     st.markdown("</div>", unsafe_allow_html=True)
+
+
+
+st.markdown("""
+<style>
+#about-button {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    background-color: #ff4b4b;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    z-index: 1000;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    text-decoration: none;
+}
+</style>
+
+<a id="about-button" href="/About" target="_self">ℹ️ About</a>
+""", unsafe_allow_html=True)
+
