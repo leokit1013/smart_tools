@@ -87,7 +87,7 @@ st.markdown("""
 #about-button {
     position: fixed;
     bottom: 20px;
-    right: 20px;
+    right: 20px;  /* ⬅️ Move to bottom-right */
     background-color: #ff4b4b;
     color: white;
     border: none;
@@ -103,4 +103,5 @@ st.markdown("""
 
 <a id="about-button" href="/About" target="_self">ℹ️ About</a>
 """, unsafe_allow_html=True)
+
 

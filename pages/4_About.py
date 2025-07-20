@@ -4,16 +4,24 @@ st.set_page_config(page_title="About - Smart Career Tools")
 
 st.markdown("## ℹ️ About Smart Career Tools")
 
-st.write("""
-Smart Career Tools is your all-in-one AI-powered companion for advancing your professional journey.
+st.markdown("""
+Welcome to **Smart Career Tools** — your personalized AI-powered career assistant.  
+We build intelligent tools that help you **save time**, **present better**, and **grow professionally**.
 
-### 🔧 What You Can Do:
-- 📝 **Resume Builder & Enhancer**: Create optimized resumes with AI feedback.
-- 📊 **Dashboard Generator**: Convert raw data into interactive visual dashboards.
-- 📄 **Document Summarizer**: Summarize long reports, resumes, and articles using Gemini AI.
+---
+### 🚀 What We Offer
+- 📝 **Resume Builder & Enhancer**  
+  Create compelling, professional resumes with AI guidance.
 
-### 📬 Contact
-Have questions or feedback?
+- 📊 **Dashboard Generator**  
+  Turn raw data into clean, interactive dashboards.
+
+- 📄 **Document Summarizer**  
+  Get concise summaries of reports, resumes, and articles using Gemini AI.
+
+---
+### 📬 Contact Us
+We’d love to hear your feedback, ideas, or partnership inquiries.
 
 📧 **Email**: [leokit1310@gmail.com](mailto:leokit1310@gmail.com)
 """)
